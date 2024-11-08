@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom :BACQ
+- prénom : Issa
+- URL Netlify : https://app.netlify.com/teams/issabcq/sites
 
 # Travail
 
